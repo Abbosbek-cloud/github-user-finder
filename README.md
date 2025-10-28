@@ -107,7 +107,7 @@ GitHub User Finder is a modern web application that allows you to search for Git
 ## 🎬 Demo
 
 ### Live Demo
-> **Coming Soon**: Deployment link will be added here
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge&logo=vercel)](https://github-user-finder-vfxy.vercel.app/)
 
 ### Quick Demo
 ```bash
