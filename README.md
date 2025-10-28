@@ -112,7 +112,7 @@ GitHub User Finder is a modern web application that allows you to search for Git
 ### Quick Demo
 ```bash
 # Clone and run locally to see it in action
-git clone <your-repo-url>
+git clone https://github.com/Abbosbek-cloud/github-user-finder
 cd github-user-finder
 npm install
 npm start
