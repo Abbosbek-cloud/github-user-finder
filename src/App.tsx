@@ -18,6 +18,7 @@ import LoadingSpinner from "./components/LoadingSpinner";
 import UserProfile from "./components/UserProfile";
 import RepositoryList from "./components/RepositoryList";
 import RateLimitMonitor from "./components/RateLimit";
+import ScrollToTopButton from "./components/ScrollToTopButton";
 
 function App() {
   const { userData, loading, error, clearError } = useGitHub();
@@ -121,6 +122,7 @@ function App() {
         </Container>
       </Box>
       <RateLimitMonitor />
+      <ScrollToTopButton />
     </Box>
   );
 }
