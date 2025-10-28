@@ -3,9 +3,9 @@
 <div align="center">
 
 ![GitHub User Finder](https://img.shields.io/badge/GitHub-User%20Finder-6366f1?style=for-the-badge&logo=github)
-![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript)
-![Material-UI](https://img.shields.io/badge/MUI-5.x-007FFF?style=for-the-badge&logo=mui)
+![React](https://img.shields.io/badge/React-19.1.1-61DAFB?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-3178C6?style=for-the-badge&logo=typescript)
+![Material-UI](https://img.shields.io/badge/MUI-7.3.4-007FFF?style=for-the-badge&logo=mui)
 
 **A modern, feature-rich GitHub user search application with a beautiful glassmorphism UI**
 
