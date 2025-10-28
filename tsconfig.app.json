@@ -1,6 +1,8 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
+    "emitDeclarationOnly": true,
+    "declaration": true,
     "composite": true,
     "target": "ES2020",
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
